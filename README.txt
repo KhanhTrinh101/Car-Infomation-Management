@@ -1,3 +1,5 @@
+Tác giả: Khánh Trình (TrinhLK)
+Địa chỉ email: khanhtrinh102uuu@gmail.com
 ** Tổng quan:
 	Hệ thống cài đặt trên thiết bị AVN của ô tô được chia thành các chức năng theo các đối tượng khác nhau 
 	theo vai trò và trách nhiệm trong công việc. Chương trình này sẽ cài đặt 1 vài thông số trên 3 chức 
